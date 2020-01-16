@@ -1,5 +1,7 @@
 # SQL-Practice
-In this Repository, I practised all the operations i have learnt starting from creating dataset and performing operations 
+In this Repository, I practised all the operations i have learnt starting from creating dataset and performing operations on strings.
+Source for better understanding of the string functions (https://www.club-oracle.com/threads/oracle-pl-sql-instr-and-substr-functions.16260/)
+
 
 ### Steps to create HR Schema:
 
